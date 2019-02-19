@@ -10,39 +10,39 @@ The UIUX Design Checklist which can help user & developers to analyse and unders
     <tr>
         <td>
             <a href="#gridSystem">
-            <img src="_icon/icon-grid.png" height="80" />
+            <img src="https://raw.githubusercontent.com/gmkhussain/uiux/master/_icons/icon-colors.png" height="80" />
             <br/>Grid system</a>
         </td>
         <td>
             <a href="#colors">
-            <img src="_icon/icon-colors.png" height="40" width="auto" />
+            <img src="https://raw.githubusercontent.com/gmkhussain/uiux/master/_icon/icon-colors.png" height="40" width="auto" />
             <br/> Colors </a>
         </td>
         <td>
             <a href="#colors">
-            <img src="_icon/icon-colors.png" height="40" width="auto" />
+            <img src="https://raw.githubusercontent.com/gmkhussain/uiux/master/_icon/icon-colors.png" height="40" width="auto" />
             <br/> Colors </a>
         </td>
         <td>
             <a href="#Typography">
-            <img src="_icon/icon-colors.png" height="40" width="auto" />
+            <img src="https://raw.githubusercontent.com/gmkhussain/uiux/master/_icon/icon-colors.png" height="40" width="auto" />
             <br/> Typography </a>
         </td>
          <td>
             <a href="#Links">
-            <img src="_icon/icon-links.png" height="40" width="auto" />
+            <img src="https://raw.githubusercontent.com/gmkhussain/uiux/master/_icon/icon-links.png" height="40" width="auto" />
             <br/> Links </a>
         </td>
           <td>
             <a href="#Images">
-            <img src="_icon/icon-images.png" height="40" width="auto" />
+            <img src="https://raw.githubusercontent.com/gmkhussain/uiux/master/_icon/icon-images.png" height="40" width="auto" />
             <br/> Images </a>
         </td>
     </tr>
     <tr>
         <td>
             <a href="#Forms">
-            <img src="_icon/icon-forms.png" height="40" width="auto" />
+            <img src="https://raw.githubusercontent.com/gmkhussain/uiux/master/_icon/icon-forms.png" height="40" width="auto" />
             <br/> Forms </a>
         </td>
     </tr>
@@ -56,7 +56,7 @@ The UIUX Design Checklist which can help user & developers to analyse and unders
 
 
 <h1 align="center" id="Typography">
-<img src="_icon/icon-grid.png" height="80" />
+<img src="https://raw.githubusercontent.com/gmkhussain/uiux/master/_icon/icon-grid.png" height="80" />
 <br/>
 Grid Systems
 </h1>
@@ -81,7 +81,7 @@ https://guideguide.me/ (https://guideguide.me/)
 
 
 <h1 align="center" id="Typography">
-<img src="_icon/icon-font.png" height="80" />
+<img src="https://raw.githubusercontent.com/gmkhussain/uiux/master/_icon/icon-font.png" height="80" />
 <br/>
 Typography
 </h1>
