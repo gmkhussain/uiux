@@ -20,7 +20,7 @@ The UIUX Design Checklist which can help user & developers to analyse and unders
         </td> 
         <td>
             <a href="#Typography">
-            <img src="https://raw.githubusercontent.com/gmkhussain/uiux/master/_images/icon-colors.png" height="40" width="auto" />
+            <img src="https://raw.githubusercontent.com/gmkhussain/uiux/master/_images/icon-font.png" height="40" width="auto" />
             <br/> Typography </a>
         </td>
         <td>
@@ -114,6 +114,20 @@ The different color state of some elements (like buttons, links, inputs...) are 
 Typography
 </h1>
 
+Typography (font) are an essential part of every design, they shouldn’t be chosen without discernment. Always choose correct (Free or Licencse) font for a project.
+
+Some webfonts are limited in terms of pageviews and can’t be hosted
+Understanding Webfont Licensing Structures: https://aeolidia.com/understanding-webfont-licensing-structures/
+
+
+ℹ️ TTF format for desktop is not the same than TTF for Web.
+
+📖 Using @font-face | CSS-Tricks : https://css-tricks.com/snippets/css/using-font-face/
+
+#### Size limit : 
+All webfonts don’t exceed 1-2 Mb (all variants included: italic, bold etc).
+
+
 
 ## Dafont
 Archive of freely downloadable fonts.
@@ -131,7 +145,7 @@ https://fontpair.co/ (https://fontpair.co/)
 
 
 
-<h1 align="center" id="Typography">
+<h1 align="center" id="Icons">
 <img src="https://raw.githubusercontent.com/gmkhussain/uiux/master/_images/icon-icons.png" height="80" />
 <br/>
 Icons
@@ -142,7 +156,9 @@ Material Icons font is by linking to the web font hosted on Google Fonts:
 
 ```javascript
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
-      rel="stylesheet">```
+      rel="stylesheet">
+```
+
 Read more in our full usage guide: http://google.github.io/material-design-icons/#icon-font-for-the-web
 
 https://www.materialpalette.com/icons (https://www.materialpalette.com/icons)
@@ -151,7 +167,57 @@ https://material.io/icons/ (https://material.io/icons/)
 
 
 
+#### Icon
+All icons are provided in <b>SVG format</b>, each in the same square dimension, in black and in a separated folder.
+NOTE: Each icon name starts with ```icon-``` and is entirely in lowercase (without any space and using dashes to separate each word).
+
+Example: ```icon-email.png```
+
+
+##### Resources:
+🛠 SVGOMG - SVGO's Missing GUI : https://jakearchibald.github.io/svgomg/
 
 
 
 
+
+
+
+
+<h1 align="center" id="Images">
+<img src="https://raw.githubusercontent.com/gmkhussain/uiux/master/_images/icon-images.png" height="80" />
+<br/>
+Images
+</h1>
+
+
+#### favicon image
+At least 512px X 512px is provided in PNG format.
+
+
+
+Essential Image Optimization: https://images.guide/
+
+
+
+#### Stock Images Resources
+https://freepik.com/
+https://unsplash.com/
+
+
+
+
+
+
+
+
+
+<h1 align="center" id="Typography">
+<img src="https://raw.githubusercontent.com/gmkhussain/uiux/master/_images/icon-images.png" height="80" />
+<br/>
+Links
+</h1>
+
+
+<img src="http://www.chaudo.com/wp-content/uploads/2018/04/hover-effect-one.gif" alt="" />
+ Alternate views of all navigation states (hover, active/current page).
