@@ -6,7 +6,7 @@ UI UX Design
 
 The UIUX Design Checklist which can help user & developers to analyse and understand web designs and ensure the quality of their Frontend development for user experience.
 
-<table>
+<table text-align="center">
     <tr>
         <td>
             <a href="#gridSystem">
@@ -203,6 +203,11 @@ Essential Image Optimization: https://images.guide/
 #### Stock Images Resources
 https://freepik.com/
 https://unsplash.com/
+https://pixabay.com/
+
+
+#### XD Resources, UI kits & Tutorials
+https://www.xdguru.com/
 
 
 
